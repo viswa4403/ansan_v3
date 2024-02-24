@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631539613056",
+    "project_id": "ansan-ace15",
+    "storage_bucket": "ansan-ace15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631539613056:android:eee6cdbcad80951380d565",
+        "android_client_info": {
+          "package_name": "com.ashapps.ansan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOZYWCOvbxhAnAGmk-FK_8FTWLMaIvdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
