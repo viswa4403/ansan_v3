@@ -2,6 +2,8 @@
 
 Detect Glaucoma early with our app!
 
+[Download the App](https://github.com/Ashrockzzz2003/ansan_v3/releases/download/v3/app-release.apk)
+
 ## Technologies Used
 
 | Purpose | Technology |
