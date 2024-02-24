@@ -13,7 +13,7 @@ Detect Glaucoma early with our app!
 > **Note**: You need to use your API key for Gemini API in `lib/util/chat_bot/chat_bot_screen.dart`.
 
 1. Clone the repository.
-2. Open the `ansan` folder in `Android Studio`.
+2. Open the `ansan_v3` folder in `Android Studio`.
 3. Open the Terminal and run `flutter pub get`.
 4. Choose `Android` as the target device and run the app.
 
