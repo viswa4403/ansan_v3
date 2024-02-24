@@ -2,7 +2,20 @@
 
 Detect Glaucoma early with our app!
 
+## To Try the app
+
 [Download the App](https://github.com/Ashrockzzz2003/ansan_v3/releases/download/v3/app-release.apk)
+
+## To Run the code
+
+> **Note**: You need to have `Flutter` and `Android Studio` installed on your system to run the app.
+
+> **Note**: You need to use your API key for Gemini API in `lib/util/chat_bot/chat_bot_screen.dart`.
+
+1. Clone the repository.
+2. Open the `ansan` folder in `Android Studio`.
+3. Open the Terminal and run `flutter pub get`.
+4. Choose `Android` as the target device and run the app.
 
 ## Technologies Used
 
