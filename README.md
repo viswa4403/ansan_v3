@@ -43,7 +43,7 @@ Detect Glaucoma early with our app!
 
 ## Architecture
 
-![Architecture](https://i.imgur.com/OHPk704.png)
+![Architecture](https://i.imgur.com/AITNXcB.png)
 
 ## Website
 
