@@ -17,6 +17,18 @@ Detect Glaucoma early with our app!
 3. Open the Terminal and run `flutter pub get`.
 4. Choose `Android` as the target device and run the app.
 
+### Credentials to use the app
+
+| Role | Email | Password |
+| ---- | ----- | -------- |
+| Admin | hsheadone@gmail.com | password |
+| Hospital Management | shettyajoy@gmail.com | password |
+| Doctor | 21f3001600@ds.study.iitm.ac.in | password |
+| Frontline Worker | sivamani.ca@gmail.com | password |
+| Patient | ashrockzzz2003@gmail.com | password |
+
+`Patient` - You can create a new account and get your credentials.
+
 ## Technologies Used
 
 | Purpose | Technology |
