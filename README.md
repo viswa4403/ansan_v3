@@ -49,7 +49,19 @@ Detect Glaucoma early with our app!
 
 ## Demo Video
 
-[Watch the video on YouTube](https://youtu.be/vdqqqxFJ0Eg)
+[Click to Watch on YouTube](https://youtu.be/vdqqqxFJ0Eg?si=8skz53MSn0AeTEpX)
+
+https://github.com/Ashrockzzz2003/ansan_v3/assets/90165751/5ca78dbd-66ba-493e-ac27-778ed5754c1a
+
+## UN SDG's we're solving
+
+[UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+
+<div style="display: flex">
+  <img src="https://github.com/Ashrockzzz2003/ansan_v3/assets/90165751/4519189d-ae89-47a7-8f8c-af3dfde40305" height="256" />
+  <img src="https://github.com/Ashrockzzz2003/ansan_v3/assets/90165751/bbdc7274-822e-4fc5-91cc-97f1407b5846" height="256" />
+</div>
+
 
 ## Architecture
 
