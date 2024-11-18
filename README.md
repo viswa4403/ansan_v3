@@ -71,11 +71,9 @@ https://github.com/Ashrockzzz2003/ansan_v3/assets/90165751/5ca78dbd-66ba-493e-ac
 
 [Visit the website](https://ansan.cb.amrita.edu)
 
-## The Team
-
-![Team](https://i.imgur.com/XjvKmJe.png)
 
 - [Ashwin Narayanan S](https://ashrockzzz2003.github.io/portfolio/)
+- [A.V.Viswa](https://www.linkedin.com/in/viswa-av/)
 - [Vaisakhkrishnan K](https://www.linkedin.com/in/vaisakhkrishnan-k-2358b720b/)
 - [Abinesh T](https://www.linkedin.com/in/abinesh-tamizhselvan-4732a8222/)
 - [Leonal Robin D](https://www.linkedin.com/in/leonal-robin-47b681284/)
